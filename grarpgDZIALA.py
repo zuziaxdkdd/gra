@@ -51,7 +51,7 @@ elif wybor == 3:
     mana = 1
 elif wybor == 4:
     zycie = 150
-    mana = 35
+    mana = 45
 elif wybor == 5:
     zycie = 85
     mana = 80
